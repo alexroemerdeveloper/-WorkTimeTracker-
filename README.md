@@ -1,4 +1,4 @@
-# -WorkTimeTracker-
+# WorkingHoursTracker
 Track your work time. Written with SwiftUI
 
 
